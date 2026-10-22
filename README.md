@@ -12,7 +12,7 @@ This installs `Vaultdraw.app` and links the `vaultdraw` command into your PATH.
 
 The build is ad-hoc signed, not notarized, so macOS blocks the first launch. Right-click the app and choose **Open**, or go to **System Settings > Privacy & Security** and click **Open Anyway**. You only do this once per version.
 
-If macOS says the app is "damaged", remove the quarantine flag and open it again:
+If macOS says the app is "damaged", or the `vaultdraw` command stops with `Killed: 9`, remove the quarantine flag and try again:
 
 ```sh
 xattr -dr com.apple.quarantine /Applications/Vaultdraw.app

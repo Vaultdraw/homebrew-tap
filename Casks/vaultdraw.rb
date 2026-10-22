@@ -2,8 +2,7 @@ cask "vaultdraw" do
   version "0.1.1"
   sha256 "072278559954778a4ecc36eae30be7c929bea9fa02b0ab307de120189b890ebb"
 
-  url "https://github.com/Vaultdraw/vaultdraw/releases/download/v#{version}/Vaultdraw_#{version}_universal.dmg",
-      verified: "github.com/Vaultdraw/vaultdraw/"
+  url "https://github.com/Vaultdraw/vaultdraw/releases/download/v#{version}/Vaultdraw_#{version}_universal.dmg"
   name "Vaultdraw"
   desc "Offline desktop vault for Excalidraw drawings"
   homepage "https://github.com/Vaultdraw/vaultdraw"
