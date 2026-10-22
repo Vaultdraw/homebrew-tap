@@ -1,6 +1,6 @@
 cask "vaultdraw" do
-  version "0.1.1"
-  sha256 "072278559954778a4ecc36eae30be7c929bea9fa02b0ab307de120189b890ebb"
+  version "0.1.2"
+  sha256 "cd0ccaea850aa966b4436289ba55c156191aa8726fdc70b1b31adc61c42d7c07"
 
   url "https://github.com/Vaultdraw/vaultdraw/releases/download/v#{version}/Vaultdraw_#{version}_universal.dmg"
   name "Vaultdraw"
