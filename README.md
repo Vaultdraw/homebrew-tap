@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaultdraw/vaultdraw/main/docs/assets/brand/svg/lockup-dark.svg">
+    <img src="https://raw.githubusercontent.com/Vaultdraw/vaultdraw/main/docs/assets/brand/svg/lockup-light.svg" alt="Vaultdraw" width="360">
+  </picture>
+</p>
+
 # Vaultdraw Homebrew tap
 
 Install [Vaultdraw](https://github.com/Vaultdraw/vaultdraw), the offline desktop vault for Excalidraw drawings.
